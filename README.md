@@ -2,7 +2,7 @@
 
 I'm a **Senior Software Engineer** with experience in software development and testing, with a strong focus on clean, maintainable code, test automation, and scalable web architecture.
 
-Most recently, I’ve been building full-stack applications with **Ruby on Rails** and **React**, while also contributing to developer experience through test infrastructure, CI/CD, and performance tooling.
+Most recently, I’ve been working on [postmarkapp.com](https://postmarkapp.com/) with **Ruby on Rails** and **React**, while also contributing to developer experience through test infrastructure, CI/CD, and performance tooling.
 
 ---
 
@@ -18,4 +18,4 @@ Most recently, I’ve been building full-stack applications with **Ruby on Rails
 ## 📬 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/ibalosh/)  
-- Email: igor.baloshin@gmail.com
+- Email: ibalosh@gmail.com
