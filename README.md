@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Igor Balos
 
-<!--
-**ibalosh/ibalosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Senior Software Engineer** with experience in software development and testing, with a strong focus on clean, maintainable code, test automation, and scalable web architecture.
 
-Here are some ideas to get you started:
+Most recently, I’ve been building full-stack applications with **Ruby on Rails** and **React**, while also contributing to developer experience through test infrastructure, CI/CD, and performance tooling.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech I Work With
+
+- **Languages:** Ruby, JavaScript, TypeScript, Java
+- **Frameworks:** Ruby on Rails, React, RSpec, Playwright, Capybara, Selenium
+- **Tools & Platforms:** AWS, Docker, MySQL, PostgreSQL, Redis, GitHub Actions, CircleCI
+- **Concepts:** TDD, CI/CD, OOP, SOLID principles
+
+---
+
+## 📬 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/ibalosh/)  
+- Email: igor.baloshin@gmail.com
