@@ -18,4 +18,4 @@ Most recently, I’ve worked on [postmarkapp.com](https://postmarkapp.com/) feat
 ## 📬 Let's Connect
 
 - [LinkedIn profile](https://www.linkedin.com/in/ibalosh/)  
-- [ibalosh@gmail.com](mailto:ibalosh@gmail.com)
+- ibalosh@gmail.com
