@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Igor Balos
 
-I'm a **Senior Software Engineer** with experience in software development and testing, with a strong focus on clean, maintainable code, test automation, and scalable web architecture.
+I'm a **Senior Software Engineer** with a focus on clean, maintainable code, test automation, and scalable web architecture.
 
-Most recently, I’ve been working on [postmarkapp.com](https://postmarkapp.com/) with **Ruby on Rails** and **React**, while also contributing to developer experience through test infrastructure, CI/CD, and performance tooling.
+Most recently, I’ve worked on [postmarkapp.com](https://postmarkapp.com/) features, while also contributing to developer experience through test infrastructure, CI/CD, and performance tooling.
 
 ---
 
@@ -10,12 +10,12 @@ Most recently, I’ve been working on [postmarkapp.com](https://postmarkapp.com/
 
 - **Languages:** Ruby, JavaScript, TypeScript, Java
 - **Frameworks:** Ruby on Rails, React, RSpec, Playwright, Capybara, Selenium
-- **Tools & Platforms:** AWS, Docker, MySQL, PostgreSQL, Redis, GitHub Actions, CircleCI
+- **Tools & Platforms:** AWS, Docker, Terraform, SQL (MySQL, SQLite, PostgreSQL), Redis, GitHub Actions, CircleCI
 - **Concepts:** TDD, CI/CD, OOP, SOLID principles
 
 ---
 
 ## 📬 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/ibalosh/)  
-- Email: ibalosh@gmail.com
+- [LinkedIn profile](https://www.linkedin.com/in/ibalosh/)  
+- [ibalosh@gmail.com](ibalosh@gmail.com)
