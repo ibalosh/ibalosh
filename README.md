@@ -8,10 +8,9 @@ Most recently, I’ve worked on [postmarkapp.com](https://postmarkapp.com/) feat
 
 ## 🛠 Tech I currently work with
 
-- **Languages:** Ruby, JavaScript, TypeScript, Java
-- **Frameworks:** Ruby on Rails, React, RSpec, Playwright, Jest, Capybara, Selenium
-- **Tools & Platforms:** AWS, Docker, Terraform, SQL (MySQL, SQLite, PostgreSQL), Redis, GitHub Actions, CircleCI
-- **Concepts:** TDD, CI/CD, OOP, SOLID principles
+- **Languages:** `Ruby`, `JavaScript`, `TypeScript`, `Java`
+- **Frameworks:** `Ruby on Rails`, `React`, `RSpec`, `Playwright`, `Jest`, `Capybara`, `Selenium`
+- **Tools & Platforms:** `AWS`, `Docker`, `Terraform`, `SQL (MySQL, SQLite, PostgreSQL)`, `Redis`, `GitHub Actions`, `CircleCI`
 
 ---
 
