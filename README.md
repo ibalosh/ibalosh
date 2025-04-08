@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Igor Balos
 
-I'm a **Senior Software Engineer** with a focus on clean, maintainable code, scalable web architecture and test automation.
+I'm a **Software Engineer** with a focus on clean, maintainable code, scalable web architecture and test automation.
 
 Most recently, I’ve worked on [postmarkapp.com](https://postmarkapp.com/) at [Active Campaign](https://www.activecampaign.com/).
 
