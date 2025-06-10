@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Igor Balos
 
-I'm a **Software Engineer** who moved from software development in test to full-on product development. 
+I'm a **Senior Software Engineer**. 
 
 Most recently, I’ve worked on [postmarkapp.com](https://postmarkapp.com/) at [Active Campaign](https://www.activecampaign.com/).
 
@@ -9,8 +9,8 @@ Most recently, I’ve worked on [postmarkapp.com](https://postmarkapp.com/) at [
 ## 🛠 Tech I currently work with
 
 - **Languages:** `Ruby`, `JavaScript`, `TypeScript`
-- **Frameworks:** `Ruby on Rails`, `React`, `RSpec`, `Playwright`, `Jest`, `Selenium`
-- **Tools & Platforms:** `AWS`, `Docker`, `Terraform`, `SQL (MySQL, SQLite, PostgreSQL)`, `Redis`
+- **Frameworks:** `Ruby on Rails`, `Hotwire`, `React`, `Playwright`, `Jest`, `Selenium`
+- **Tools & Platforms:** `AWS`, `Docker`, `Terraform`, `SQL (PostgreSQL, MySQL, SQLite)`, `Redis`, `MemCached`
 
 ---
 
