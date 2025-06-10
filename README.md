@@ -8,7 +8,7 @@ Most recently, I’ve worked on [postmarkapp.com](https://postmarkapp.com/) at [
 
 ## 🛠 Tech I currently work with
 
-- **Languages:** `Ruby`, `JavaScript`, `TypeScript`
+- **Languages:** `Ruby`, `JavaScript`, `TypeScript`, `Java`
 - **Frameworks:** `Ruby on Rails`, `Hotwire`, `React`, `Playwright`, `Jest`, `Selenium`
 - **Tools & Platforms:** `AWS`, `Docker`, `Terraform`, `SQL (PostgreSQL, MySQL, SQLite)`, `Redis`, `MemCached`
 
