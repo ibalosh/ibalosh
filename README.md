@@ -1,6 +1,7 @@
 # 👋 Hi there, I'm Igor Balos
 
 I'm a **Senior Software Engineer**, most recently, I’ve worked on [postmarkapp.com](https://postmarkapp.com/) at [Active Campaign](https://www.activecampaign.com/).
+Previously worked on [DeployBot](https://deploybot.com/), and [Beanstalk](https://beanstalkapp.com/) at [Wildbit](https://www.wildbit.com/).
 
 ---
 
