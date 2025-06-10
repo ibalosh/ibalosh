@@ -1,8 +1,6 @@
-# 👋 Hi, I'm Igor Balos
+# 👋 Hi there, I'm Igor Balos
 
-I'm a **Senior Software Engineer**. 
-
-Most recently, I’ve worked on [postmarkapp.com](https://postmarkapp.com/) at [Active Campaign](https://www.activecampaign.com/).
+I'm a **Senior Software Engineer**, most recently, I’ve worked on [postmarkapp.com](https://postmarkapp.com/) at [Active Campaign](https://www.activecampaign.com/).
 
 ---
 
