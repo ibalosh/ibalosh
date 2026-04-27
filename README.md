@@ -1,19 +1,11 @@
-# 👋 Hi there, I'm Igor Balos
+# Hey there 👋
 
-I'm a **Senior Software Engineer**, most recently, I’ve worked on [postmarkapp.com](https://postmarkapp.com/) at [Active Campaign](https://www.activecampaign.com/).
-Previously worked on [DeployBot](https://deploybot.com/), and [Beanstalk](https://beanstalkapp.com/) at [Wildbit](https://www.wildbit.com/).
+💻 I'm a Senior Software Engineer who likes working where software, infrastructure, and reliability meet.
 
----
+- ✉️ A lot of my work at [ActiveCampaign](https://www.activecampaign.com/) went into [Postmark](https://postmarkapp.com/).
+- 🏢 Most recently I worked at [Ghost](https://ghost.org/).
+- 🛠️ Earlier, I worked on [DeployBot](https://deploybot.com/) and [Beanstalk](https://beanstalkapp.com/) at [Wildbit](https://www.wildbit.com/), and on product engineering at [ActiveCampaign](https://www.activecampaign.com/).
+- 🧪 I came up through quality engineering, so I care a lot about correctness, maintainability, and calm production systems.
+- 🌍 I enjoy building software that quietly does its job well.
 
-## 🛠 Tech I currently work with
-
-- **Languages:** `Ruby`, `JavaScript`, `TypeScript`, `Java`
-- **Frameworks:** `Ruby on Rails`, `Hotwire`, `React`, `Playwright`, `Jest`, `Selenium`
-- **Tools & Platforms:** `AWS`, `Docker`, `Terraform`, `SQL (PostgreSQL, MySQL, SQLite)`, `Redis`, `MemCached`
-
----
-
-## 📬 Let's Connect
-
-- [LinkedIn profile](https://www.linkedin.com/in/ibalosh/)  
-- ibalosh@gmail.com
+📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/ibalosh/) or by [email](mailto:ibalosh@gmail.com).
