@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://elara.travel"><img src="https://img.shields.io/badge/now-Elara-0e7c86" alt="now: Elara" /></a>
+  <a href="https://ibalosh.com"><img src="https://img.shields.io/badge/site-ibalosh.com-0969da" alt="site: ibalosh.com" /></a>
+  <a href="https://www.linkedin.com/in/ibalosh/"><img src="https://img.shields.io/badge/LinkedIn-ibalosh-0a66c2?logo=linkedin" alt="LinkedIn: ibalosh" /></a>
+</p>
+
 ```
 
                    ██╗ ██████╗   █████╗  ██╗       ██████╗  ███████╗ ██╗  ██╗
