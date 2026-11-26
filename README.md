@@ -2,7 +2,7 @@
 
 💻 I'm a Senior Software Engineer who likes working where software, infrastructure, and reliability meet.
 
-- ✈️ Currently at [Elara](https://elara.travel), building an AI travel concierge (TypeScript, AI agents, Firebase, Cloud Run).
+- ✈️ Currently at [Elara](https://elara.travel), building an AI travel concierge (TypeScript, Mastra agents and workflows, Langfuse, Firebase, Cloud Run).
 - 🎓 Before that, Rails backend at [elearnio](https://elearnio.com/).
 - 👻 At [Ghost](https://ghost.org/), I worked on the platform behind independent publishing.
 - ✉️ At [ActiveCampaign](https://www.activecampaign.com/), most of my work went into [Postmark](https://postmarkapp.com/), including [postmark.js](https://github.com/ActiveCampaign/postmark.js).
