@@ -25,11 +25,11 @@
 
 💻 I'm a Senior Software Engineer who likes working where software, infrastructure, and reliability meet.
 
-- ✈️ Currently at [Elara](https://elara.travel), building an AI travel concierge (TypeScript, Mastra agents and workflows, Langfuse, Firebase, Cloud Run).
-- 🎓 Before that, Rails backend at [elearnio](https://elearnio.com/).
-- 👻 At [Ghost](https://ghost.org/), I worked on the platform behind independent publishing.
-- ✉️ At [ActiveCampaign](https://www.activecampaign.com/), most of my work went into [Postmark](https://postmarkapp.com/).
-- 🛠️ Earlier, [DeployBot](https://deploybot.com/) and [Beanstalk](https://beanstalkapp.com/) at [Wildbit](https://www.wildbit.com/).
+- ✈️ Now at [Elara](https://elara.travel), building an AI travel concierge (TypeScript, Mastra agents and workflows, Langfuse, Firebase, Cloud Run).
+- 🎓 At [elearnio](https://elearnio.com/), worked on the backend of an online learning platform for onboarding and training teams.
+- 👻 At [Ghost](https://ghost.org/), worked on the platform behind independent publishing.
+- ✉️ At [ActiveCampaign](https://www.activecampaign.com/), worked on [Postmark](https://postmarkapp.com/), transactional email at high scale.
+- 🛠️ At [Wildbit](https://www.wildbit.com/), worked on [DeployBot](https://deploybot.com/) and [Beanstalk](https://beanstalkapp.com/), code hosting and deployment tools.
 - 🧭 I care a lot about correctness, maintainability, and calm production systems.
 
 📫 Reach out on [LinkedIn](https://www.linkedin.com/in/ibalosh/) or by [email](mailto:ibalosh@gmail.com).
